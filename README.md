@@ -8,49 +8,24 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
 
 ## 🖥️ Preview
  
-> 🔍 **Click any image to open fullscreen — scroll to zoom, drag to pan.**
+<div align="center">
+### Main Interface
+[![dsaviz main screen](https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3)](https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3)
  
-<table>
-  <tr>
-    <td width="58%" valign="top" align="center">
-      <b>Main Interface</b><br/><br/>
-      <a href="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3" target="_blank">
-        <img
-          src="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3"
-          alt="dsaviz main screen"
-          width="100%"
-          style="border-radius:10px; border:2px solid #30363d;"
-        />
-      </a>
-    </td>
-    <td width="42%" valign="top" align="center">
-      <b>DSA Visualizer</b><br/><br/>
-      <a href="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1" target="_blank">
-        <img
-          src="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1"
-          alt="DSA visualization page"
-          width="100%"
-          style="border-radius:8px; border:2px solid #30363d;"
-        />
-      </a>
-      <br/><br/>
-      <b>SQL Playground</b><br/><br/>
-      <a href="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36" target="_blank">
-        <img
-          src="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36"
-          alt="SQL visualization page"
-          width="100%"
-          style="border-radius:8px; border:2px solid #30363d;"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
 ---
  
-<div align="center">
+`DSA Visualizer` &nbsp;·&nbsp; `SQL Playground` &nbsp;·&nbsp; `System Design`
  
+| | | |
+|:---:|:---:|:---:|
+| [![DSA](https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1)](https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1) | [![SQL](https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36)](https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36) | [![Main](https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3)](https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3) |
+| **DSA Visualizer** | **SQL Playground** | **System Design** |
  
+> 🔍 Click any image to open fullscreen — scroll to zoom, drag to pan
+ 
+</div>
+ 
+---
 [![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Groq](https://img.shields.io/badge/Groq-Llama_3.3-F55036?style=for-the-badge)](https://groq.com/)

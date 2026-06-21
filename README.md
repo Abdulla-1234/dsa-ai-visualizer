@@ -17,11 +17,18 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
   </tr>
 </table>
 ---
-
-[![React]()](https://react.dev/)
-[![FastAPI]()](https://fastapi.tiangolo.com/)
-[![Groq]()](https://groq.com/)
-[![Tailwind]()](https://tailwindcss.com/)
+<div align="center">
+# 🧠 dsaviz
+### Interactive DSA & SQL Visualization Platform
+ 
+[![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Groq](https://img.shields.io/badge/Groq-Llama_3.3-F55036?style=for-the-badge)](https://groq.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+ 
+*Learn Data Structures, Algorithms & SQL visually — powered by AI*
+ 
+</div>
 
 ## Why this project exists
 

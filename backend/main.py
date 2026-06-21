@@ -11,7 +11,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://dsa-visualizer.vercel.app",  # ← replace with your real Vercel URL once deployed
+        "https://dsa-ai-visualizer-iota.vercel.app/",
+        "https://dsa-ai-visualizer-cff7ue3tb-abdulla-1234s-projects.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],

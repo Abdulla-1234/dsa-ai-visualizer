@@ -50,8 +50,6 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
  
 <div align="center">
  
-# 🧠 dsaviz
-### Interactive DSA & SQL Visualization Platform
  
 [![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)

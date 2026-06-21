@@ -16,8 +16,8 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
       <!-- PASTE YOUR MAIN SCREENSHOT HERE -->
       <!-- Replace the src below with your actual screenshot path -->
       <img
-        src="<img width="1895" height="852" alt="image" src="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3" />
-"
+        src=<img width="1895" height="852" alt="image" src="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3" />
+
         alt="dsaviz main screen"
         width="100%"
         style="border-radius: 10px; border: 1px solid #30363d;"

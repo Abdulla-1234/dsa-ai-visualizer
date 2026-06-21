@@ -14,29 +14,23 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
   <tr>
     <td width="60%" align="center" valign="top">
       <p><b>Main Interface</b></p>
-      <a href="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3">
         <img src="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3"
           alt="dsaviz main interface"
           width="100%"
         />
-      </a>
     </td>
     <td width="40%" align="center" valign="top">
       <p><b>DSA Visualizer</b></p>
-      <a href="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1">
         <img src="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1"
           alt="DSA visualization page"
           width="100%"
         />
-      </a>
       <br/><br/>
       <p><b>SQL Playground</b></p>
-      <a href="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36">
         <img src="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36"
           alt="SQL playground page"
           width="100%"
         />
-      </a>
     </td>
   </tr>
 </table>

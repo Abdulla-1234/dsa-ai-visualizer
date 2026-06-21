@@ -580,7 +580,7 @@ export default function VisualizerPage() {
   const handleSysRun = async () => {
     setSysLoading(true); setSysError(null); setSysCurrentStep(0); setSysSteps([])
     try {
-      const res = await axios.post('/api/visualize', { code: sysCode, language: 'python', category: 'system-design' })
+      const res = await axios.post(`${import.meta.env.VITE_API_URL}/api/visualize`, { code: sysCode, language: 'python', category: 'system-design' })
       setSysSteps(res.data.steps)
     } catch (e: any) {
       const msg = e?.response?.data?.detail ?? 'Error analyzing code'
@@ -593,7 +593,7 @@ export default function VisualizerPage() {
   const handleSqlRun = async () => {
     setSqlLoading(true); setSqlError(null); setSqlCurrentStep(0); setSqlSteps([])
     try {
-      const res = await axios.post('/api/visualize', { code: sql, language: 'sql', category: 'sql' })
+      const res = await axios.post(`${import.meta.env.VITE_API_URL}/api/visualize`, { code: sql, language: 'sql', category: 'sql' })
       setSqlSteps(res.data.steps)
     } catch (e: any) {
       const msg = e?.response?.data?.detail ?? 'Error analyzing query'

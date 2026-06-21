@@ -9,14 +9,17 @@ app = FastAPI(title="DSA Visualizer API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_origins=["http://localhost:5173"],
+    allow_origins=[
+        "http://localhost:5173",
+        "https://dsa-visualizer.vercel.app",  # ← replace with your real Vercel URL once deployed
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 app.include_router(visualize.router, prefix="/api")
+
 
 @app.get("/")
 def root():

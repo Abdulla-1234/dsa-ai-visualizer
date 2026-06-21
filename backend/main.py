@@ -11,8 +11,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://dsa-ai-visualizer-iota.vercel.app/",
-        "https://dsa-ai-visualizer-cff7ue3tb-abdulla-1234s-projects.vercel.app",
+        "https://dsa-ai-visualizer-fawn.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],

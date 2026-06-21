@@ -18,6 +18,12 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
 </table>
 ---
 
+[![React](<img width="1890" height="856" alt="image" src="https://github.com/user-attachments/assets/d87efb38-353f-4abb-a8fb-9ed41a93926e" />
+)](https://react.dev/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Groq](https://img.shields.io/badge/Groq-Llama_3.3-F55036?style=for-the-badge)](https://groq.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+
 ## Why this project exists
 
 Most algorithm visualizers only support a handful of hardcoded examples. This one is different — it accepts **any code you write**, sends it to an LLM (Groq's Llama 3.3, with a Gemini fallback), and the model traces the actual execution logic of *your* code into a structured JSON step sequence. The frontend then renders that sequence as a smooth, interactive animation.

@@ -8,46 +8,48 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
 
 ## 🖥️ Preview
  
+> 🔍 **Click any image to open fullscreen — scroll to zoom, drag to pan.**
+ 
 <table>
   <tr>
-    <!-- LEFT: Main screenshot (large) -->
-    <td width="60%" valign="top">
-      <h3 align="center">Main Interface</h3>
-      <!-- PASTE YOUR MAIN SCREENSHOT HERE -->
-      <!-- Replace the src below with your actual screenshot path -->
-      <img
-        src=<img width="1895" height="852" alt="image" src="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3" />
-        alt="dsaviz main screen"
-        width="100%"
-        style="border-radius: 10px; border: 1px solid #30363d;"
-      />
+    <td width="58%" valign="top" align="center">
+      <b>Main Interface</b><br/><br/>
+      <a href="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3" target="_blank">
+        <img
+          src="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3"
+          alt="dsaviz main screen"
+          width="100%"
+          style="border-radius:10px; border:2px solid #30363d;"
+        />
+      </a>
     </td>
-    <!-- RIGHT: Two small section screenshots stacked -->
-    <td width="40%" valign="top">
-      <h3 align="center">DSA Visualizer</h3>
-      <!-- PASTE YOUR DSA PAGE SCREENSHOT HERE -->
-      <img
-        src=<img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1" />
-        alt="DSA visualization page"
-        width="100%"
-        style="border-radius: 8px; border: 1px solid #30363d; margin-bottom: 12px;"
-      />
+    <td width="42%" valign="top" align="center">
+      <b>DSA Visualizer</b><br/><br/>
+      <a href="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1" target="_blank">
+        <img
+          src="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1"
+          alt="DSA visualization page"
+          width="100%"
+          style="border-radius:8px; border:2px solid #30363d;"
+        />
+      </a>
       <br/><br/>
-      <h3 align="center">SQL Playground</h3>
-      <!-- PASTE YOUR SQL PAGE SCREENSHOT HERE -->
-      <img
-        src=<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36" />
-        alt="SQL visualization page"
-        width="100%"
-        style="border-radius: 8px; border: 1px solid #30363d;"
-      />
+      <b>SQL Playground</b><br/><br/>
+      <a href="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36" target="_blank">
+        <img
+          src="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36"
+          alt="SQL visualization page"
+          width="100%"
+          style="border-radius:8px; border:2px solid #30363d;"
+        />
+      </a>
     </td>
   </tr>
 </table>
-> 💡 **Tip:** Click any image to zoom in. Screenshots are zoomable and pannable on GitHub.
-
 ---
+ 
 <div align="center">
+ 
 # 🧠 dsaviz
 ### Interactive DSA & SQL Visualization Platform
  

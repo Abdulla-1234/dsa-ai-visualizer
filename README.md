@@ -4,18 +4,6 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
 
 **Live demo:** https://dsa-ai-visualizer-fawn.vercel.app
 
-<table>
-  <tr>
-    <td width="60%">
-      <img src="<img width="1897" height="856" alt="image" src="https://github.com/user-attachments/assets/398c0fd4-04f9-4782-9d6d-5e909d18c689" />
-" alt="Home page" width="100%" />
-    </td>
-    <td width="40%">
-      <img src="./docs/dsa-screenshot.png" alt="DSA visualizer page" width="100%" /><br/>
-      <img src="./docs/sql-screenshot.png" alt="SQL visualizer page" width="100%" />
-    </td>
-  </tr>
-</table>
 ---
 
 ## 🖥️ Preview
@@ -40,7 +28,8 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
       <h3 align="center">DSA Visualizer</h3>
       <!-- PASTE YOUR DSA PAGE SCREENSHOT HERE -->
       <img
-        src="./screenshots/dsa.png"
+        src="<img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1" />
+"
         alt="DSA visualization page"
         width="100%"
         style="border-radius: 8px; border: 1px solid #30363d; margin-bottom: 12px;"
@@ -49,7 +38,8 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
       <h3 align="center">SQL Playground</h3>
       <!-- PASTE YOUR SQL PAGE SCREENSHOT HERE -->
       <img
-        src="./screenshots/sql.png"
+        src="<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36" />
+"
         alt="SQL visualization page"
         width="100%"
         style="border-radius: 8px; border: 1px solid #30363d;"

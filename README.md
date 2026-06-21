@@ -17,7 +17,6 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
       <!-- Replace the src below with your actual screenshot path -->
       <img
         src=<img width="1895" height="852" alt="image" src="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3" />
-
         alt="dsaviz main screen"
         width="100%"
         style="border-radius: 10px; border: 1px solid #30363d;"
@@ -28,8 +27,7 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
       <h3 align="center">DSA Visualizer</h3>
       <!-- PASTE YOUR DSA PAGE SCREENSHOT HERE -->
       <img
-        src="<img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1" />
-"
+        src=<img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1" />
         alt="DSA visualization page"
         width="100%"
         style="border-radius: 8px; border: 1px solid #30363d; margin-bottom: 12px;"
@@ -38,8 +36,7 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
       <h3 align="center">SQL Playground</h3>
       <!-- PASTE YOUR SQL PAGE SCREENSHOT HERE -->
       <img
-        src="<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36" />
-"
+        src=<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36" />
         alt="SQL visualization page"
         width="100%"
         style="border-radius: 8px; border: 1px solid #30363d;"

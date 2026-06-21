@@ -4,8 +4,18 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
 
 **Live demo:** https://dsa-ai-visualizer-fawn.vercel.app
 
-![DSA Visualizer Screenshot](./docs/screenshot.png)
-
+<table>
+  <tr>
+    <td width="60%">
+      <img src="<img width="1897" height="856" alt="image" src="https://github.com/user-attachments/assets/398c0fd4-04f9-4782-9d6d-5e909d18c689" />
+" alt="Home page" width="100%" />
+    </td>
+    <td width="40%">
+      <img src="./docs/dsa-screenshot.png" alt="DSA visualizer page" width="100%" /><br/>
+      <img src="./docs/sql-screenshot.png" alt="SQL visualizer page" width="100%" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## Why this project exists

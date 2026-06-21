@@ -17,6 +17,49 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
   </tr>
 </table>
 ---
+
+## 🖥️ Preview
+ 
+<table>
+  <tr>
+    <!-- LEFT: Main screenshot (large) -->
+    <td width="60%" valign="top">
+      <h3 align="center">Main Interface</h3>
+      <!-- PASTE YOUR MAIN SCREENSHOT HERE -->
+      <!-- Replace the src below with your actual screenshot path -->
+      <img
+        src="<img width="1895" height="852" alt="image" src="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3" />
+"
+        alt="dsaviz main screen"
+        width="100%"
+        style="border-radius: 10px; border: 1px solid #30363d;"
+      />
+    </td>
+    <!-- RIGHT: Two small section screenshots stacked -->
+    <td width="40%" valign="top">
+      <h3 align="center">DSA Visualizer</h3>
+      <!-- PASTE YOUR DSA PAGE SCREENSHOT HERE -->
+      <img
+        src="./screenshots/dsa.png"
+        alt="DSA visualization page"
+        width="100%"
+        style="border-radius: 8px; border: 1px solid #30363d; margin-bottom: 12px;"
+      />
+      <br/><br/>
+      <h3 align="center">SQL Playground</h3>
+      <!-- PASTE YOUR SQL PAGE SCREENSHOT HERE -->
+      <img
+        src="./screenshots/sql.png"
+        alt="SQL visualization page"
+        width="100%"
+        style="border-radius: 8px; border: 1px solid #30363d;"
+      />
+    </td>
+  </tr>
+</table>
+> 💡 **Tip:** Click any image to zoom in. Screenshots are zoomable and pannable on GitHub.
+
+---
 <div align="center">
 # 🧠 dsaviz
 ### Interactive DSA & SQL Visualization Platform

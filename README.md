@@ -4,9 +4,6 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
 
 <a href="https://dsa-ai-visualizer-fawn.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo: https://dsa-ai-visualizer-fawn.vercel.app/</a>
 
-<a href="https://dsa-ai-visualizer-fawn.vercel.app/" target="_blank" rel="noopener noreferrer">
-  GitHub Demo
-</a>
 ---
 
 ## 🖥️ Preview

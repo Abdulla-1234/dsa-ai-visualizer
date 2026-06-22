@@ -2,8 +2,11 @@
 
 Paste any DSA, SQL, or system design code and watch it execute step by step. An LLM traces the logic, generates a structured execution plan, and the frontend animates every comparison, swap, pointer move, and state change — with plain-English explanations along the way.
 
-<a href="https://dsa-ai-visualizer-fawn.vercel.app/" target="_blank" rel="noopener noreferrer">https://dsa-ai-visualizer-fawn.vercel.app/</a>
+<a href="https://dsa-ai-visualizer-fawn.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo: https://dsa-ai-visualizer-fawn.vercel.app/</a>
 
+<a href="https://dsa-ai-visualizer-fawn.vercel.app/" target="_blank" rel="noopener noreferrer">
+  GitHub Demo
+</a>
 ---
 
 ## 🖥️ Preview

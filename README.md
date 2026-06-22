@@ -213,17 +213,12 @@ Get free API keys:
 - [ ] Export animations as GIF/video
 - [ ] Support for additional languages (Java, Go, Rust)
 
----
-
-## License
-
-MIT
-
----
-
-## Author
-
-**Abdulla**
-B.Tech, Artificial Intelligence & Machine Learning — Amrita Vishwa Vidyapeetham, Bengaluru
-
 Built as a personal project to make algorithm and system design learning more visual and intuitive — combining LLM-powered code tracing with smooth, purpose-built animations for DSA, SQL, and system design concepts.
+
+---
+## Contact
+
+- **Developer**: D Mohammad Abdulla
+- **Email**: mohammadabdulla20march@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammad-abdulla-doodakula-8a3307258/)
+- **GitHub**: [Your GitHub Profile](https://github.com/Abdulla-1234)

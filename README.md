@@ -6,39 +6,9 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
 
 ---
 
-## 🖥️ Preview
+## 🎬 Demo
  
-> 🔍 Click any image to open fullscreen
- 
-<table>
-  <tr>
-    <td width="60%" align="center" valign="top">
-      <p><b>Main Interface</b></p>
-        <img src="https://github.com/user-attachments/assets/4cb73d4e-2865-47a9-8691-6daa178deda3"
-          alt="dsaviz main interface"
-          width="100%"
-        />
-    </td>
-    <td width="40%" align="center" valign="top">
-      <p><b>DSA Visualizer</b></p>
-        <img src="https://github.com/user-attachments/assets/cef19ca5-9903-45d4-a6f6-d0c14afb09e1"
-          alt="DSA visualization page"
-          width="100%"
-        />
-      <br/><br/>
-      <p><b>SQL Playground</b></p>
-        <img src="https://github.com/user-attachments/assets/b9a0c590-a9af-412c-94e5-db0a357aae36"
-          alt="SQL playground page"
-          width="100%"
-        />
-    </td>
-  </tr>
-</table>
- 
----
-
-🎬 Demo
-<video src="https://github.com/user-attachments/assets/14632581-df0a-442b-8e9c-d1a64df1ddd7" autoplay="true", loop="true", muted="true", playsinline="true width="100%"></video>
+![dsaviz demo](https://raw.githubusercontent.com/Abdulla-1234/dsa-ai-visualizer/main/assets/Demo_gif.gif)
 
 ---
 [![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)

@@ -38,8 +38,7 @@ Paste any DSA, SQL, or system design code and watch it execute step by step. An 
 ---
 
 🎬 Demo
-
-https://github.com/user-attachments/assets/14632581-df0a-442b-8e9c-d1a64df1ddd7
+<video src="https://github.com/user-attachments/assets/14632581-df0a-442b-8e9c-d1a64df1ddd7" autoplay loop muted playsinline width="100%"></video>
 
 ---
 [![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
